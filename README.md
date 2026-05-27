@@ -1,5 +1,5 @@
 # Projet 16 — Classification des Types de Vehicules
-## Machine Learning Avancee — ING4 DS-B | Sarra Bouguerra
+## Machine Learning Avancee | Sarra Bouguerra
 
 ---
 
