@@ -180,7 +180,7 @@ POST http://localhost:8000/predict
 - **Observations** : 946
 - **Features** : 18 (numeriques)
 - **Classes** : bus, opel, saab, van (4 classes equilibrees)
----
+--- 
 
 ## Lancer le Projet
 
@@ -222,31 +222,6 @@ npm start
 | GET | /tache4/summary | Resume complet Tache 4 |
 
 ---
-
-## Resultats Tache 4
-
-### Q1 — Top 3 Features Importantes
-1. RADIUS_RATIO — 17.8%
-2. ELONGATEDNESS — 15.2%  
-3. SCATTER_RATIO — 12.8%
-
-### Q2 — Stabilite
-- std = 0.83% sur 10 random_states => modele ROBUSTE
-
-### Q3 — Erreurs
-- Confusion principale : saab ↔ opel (geometrie similaire)
-- Taux d'erreur : 5.79% (11/190)
-
-### Q4 — Configuration Optimale
-| n_estimators | max_depth | Train Acc | Test Acc | Biais | Variance |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| 10 | 2 | 68.42% | 65.26% | 0.316 | 0.032 | Underfitting |
-| 100 | 15 | 94.21% | 82.63% | 0.058 | 0.116 | **OPTIMAL** |
-| 500 | None | 100% | 83.68% | 0.000 | 0.163 | Overfitting |
-
-### Q5 — RF vs Decision Tree
-- RF : 82.63% vs DT : 79.47% => **RF +3.16%**
-- CV RF : 84.83% vs CV DT : 78.35% => **RF +6.48%**
 
 ---
 
