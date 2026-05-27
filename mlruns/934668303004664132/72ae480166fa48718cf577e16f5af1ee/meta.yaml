@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/934668303004664132/72ae480166fa48718cf577e16f5af1ee/artifacts
+end_time: 1777062869453
+entry_point_name: ''
+experiment_id: '934668303004664132'
+lifecycle_stage: active
+run_id: 72ae480166fa48718cf577e16f5af1ee
+run_name: KNN_k5
+run_uuid: 72ae480166fa48718cf577e16f5af1ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777062865468
+status: 3
+tags: []
+user_id: PC

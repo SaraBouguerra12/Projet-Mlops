@@ -1,0 +1,15 @@
+creation_timestamp: 1779839325057
+current_stage: Production
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1779839325190
+model_id: m-00cb856a3d8b43ab813d3ca3fe05e4d5
+name: vehicule_prediction_model
+run_id: 467e5caaec07429288abeb57685e2d3e
+run_link: null
+source: models:/m-00cb856a3d8b43ab813d3ca3fe05e4d5
+status: READY
+status_message: null
+storage_location: file:///C:/Users/PC/projet_vehicules_tache4_final/projet_vehicules/frontend/src/mlruns/853118068089840809/models/m-00cb856a3d8b43ab813d3ca3fe05e4d5/artifacts
+user_id: null
+version: 2

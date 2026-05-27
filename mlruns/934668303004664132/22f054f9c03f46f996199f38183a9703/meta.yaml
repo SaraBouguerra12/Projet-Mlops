@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/934668303004664132/22f054f9c03f46f996199f38183a9703/artifacts
+end_time: 1777062929394
+entry_point_name: ''
+experiment_id: '934668303004664132'
+lifecycle_stage: active
+run_id: 22f054f9c03f46f996199f38183a9703
+run_name: RF_T4_n50_d5
+run_uuid: 22f054f9c03f46f996199f38183a9703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777062925975
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/PC/projet_vehicules_tache4_final/projet_vehicules/frontend/src/mlruns/853118068089840809/models/m-00cb856a3d8b43ab813d3ca3fe05e4d5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.5.1
+model_id: m-00cb856a3d8b43ab813d3ca3fe05e4d5
+model_size_bytes: 52433
+model_uuid: m-00cb856a3d8b43ab813d3ca3fe05e4d5
+prompts: null
+run_id: 467e5caaec07429288abeb57685e2d3e
+utc_time_created: '2026-05-26 23:48:02.062651'

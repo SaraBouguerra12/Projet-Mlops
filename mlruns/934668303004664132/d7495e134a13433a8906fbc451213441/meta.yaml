@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/934668303004664132/d7495e134a13433a8906fbc451213441/artifacts
+end_time: 1777062893386
+entry_point_name: ''
+experiment_id: '934668303004664132'
+lifecycle_stage: active
+run_id: d7495e134a13433a8906fbc451213441
+run_name: RF_200_entropy
+run_uuid: d7495e134a13433a8906fbc451213441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777062886828
+status: 3
+tags: []
+user_id: PC

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PC/projet_vehicules_tache4_final/projet_vehicules/frontend/src/mlruns/853118068089840809/34d6cacd10fb4eefbc7bdb9cf384c282/artifacts
+end_time: 1779839531454
+entry_point_name: ''
+experiment_id: '853118068089840809'
+lifecycle_stage: active
+run_id: 34d6cacd10fb4eefbc7bdb9cf384c282
+run_name: GradientBoosting
+run_uuid: 34d6cacd10fb4eefbc7bdb9cf384c282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779839528198
+status: 3
+tags: []
+user_id: PC

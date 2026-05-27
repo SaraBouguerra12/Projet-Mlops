@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/PC/projet_vehicules_tache4_final/projet_vehicules/frontend/src/mlruns/712497138975798851/9a6b265af14049f7a9b34ba4f97e8206/artifacts
+end_time: 1779839531899
+entry_point_name: ''
+experiment_id: '712497138975798851'
+lifecycle_stage: active
+run_id: 9a6b265af14049f7a9b34ba4f97e8206
+run_name: drift_detection
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779839501367
+status: 3
+tags: []
+user_id: PC

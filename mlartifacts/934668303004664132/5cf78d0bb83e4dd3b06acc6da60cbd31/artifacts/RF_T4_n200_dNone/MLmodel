@@ -1,0 +1,20 @@
+artifact_path: RF_T4_n200_dNone
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+mlflow_version: 2.9.2
+model_size_bytes: 4310758
+model_uuid: ad1ebe66e2b14ba6af2847aa82a378bf
+run_id: 5cf78d0bb83e4dd3b06acc6da60cbd31
+utc_time_created: '2026-04-24 20:35:52.418656'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/934668303004664132/b47e438a9abd460a9de3cdd44c3b70b3/artifacts
+end_time: 1777062875940
+entry_point_name: ''
+experiment_id: '934668303004664132'
+lifecycle_stage: active
+run_id: b47e438a9abd460a9de3cdd44c3b70b3
+run_name: SVM_RBF_C1
+run_uuid: b47e438a9abd460a9de3cdd44c3b70b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777062872749
+status: 3
+tags: []
+user_id: PC

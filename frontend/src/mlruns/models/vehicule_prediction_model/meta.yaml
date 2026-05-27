@@ -1,0 +1,7 @@
+aliases: {}
+creation_timestamp: 1779838602655
+deployment_job_id: null
+deployment_job_state: null
+description: Modèle ML de prédiction de véhicules
+last_updated_timestamp: 1779839325190
+name: vehicule_prediction_model

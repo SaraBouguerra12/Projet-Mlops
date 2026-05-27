@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/PC/projet_vehicules_tache4_final/projet_vehicules/frontend/src/mlruns/853118068089840809/a37933b6c50f4bb19af0a210126deb4c/artifacts
+end_time: 1779838572890
+entry_point_name: ''
+experiment_id: '853118068089840809'
+lifecycle_stage: active
+run_id: a37933b6c50f4bb19af0a210126deb4c
+run_name: RandomForest_large
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779838569566
+status: 3
+tags: []
+user_id: PC

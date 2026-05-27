@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/PC/projet_vehicules_tache4_final/projet_vehicules/frontend/src/mlruns/853118068089840809/models/m-a2dfd1e07d17499e9694e0ecae1c9033/artifacts
+creation_timestamp: 1779838563598
+experiment_id: '853118068089840809'
+last_updated_timestamp: 1779838569546
+model_id: m-a2dfd1e07d17499e9694e0ecae1c9033
+model_type: null
+name: model
+source_run_id: 635b39f3f1744c3c96b9a7c542019daf
+status: 2
+status_message: null

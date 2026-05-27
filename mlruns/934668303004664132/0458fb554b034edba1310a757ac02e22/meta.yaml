@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/934668303004664132/0458fb554b034edba1310a757ac02e22/artifacts
+end_time: 1777062975161
+entry_point_name: ''
+experiment_id: '934668303004664132'
+lifecycle_stage: active
+run_id: 0458fb554b034edba1310a757ac02e22
+run_name: RF_stability_seed7
+run_uuid: 0458fb554b034edba1310a757ac02e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777062970710
+status: 3
+tags: []
+user_id: PC
