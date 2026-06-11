@@ -1,5 +1,5 @@
-# Projet 16 — Classification des Types de Vehicules
-## Machine Learning Avancee | Sarra Bouguerra
+#  Classification des Types de Vehicules
+## Machine Learning | Sarra Bouguerra
 
 ---
 
